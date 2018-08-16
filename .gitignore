@@ -1,0 +1,11 @@
+node_modules/
+.vscode/
+.expo/
+npm-debug.*
+yarn.lock
+package-lock.json
+
+# OSX
+#
+.DS_Store
+
